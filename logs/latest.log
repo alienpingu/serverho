@@ -1,0 +1,49 @@
+[00:00:10] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 7790ms behind, skipping 155 tick(s)
+[00:00:21] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2391ms behind, skipping 47 tick(s)
+[00:00:40] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2223ms behind, skipping 44 tick(s)
+[00:01:05] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 8712ms behind, skipping 174 tick(s)
+[00:01:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2731ms behind, skipping 54 tick(s)
+[00:01:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2256ms behind, skipping 45 tick(s)
+[00:01:49] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3966ms behind, skipping 79 tick(s)
+[00:02:06] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5755ms behind, skipping 115 tick(s)
+[00:02:19] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2770ms behind, skipping 55 tick(s)
+[00:02:43] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9429ms behind, skipping 188 tick(s)
+[00:02:57] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4957ms behind, skipping 99 tick(s)
+[00:03:14] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3843ms behind, skipping 76 tick(s)
+[00:03:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4603ms behind, skipping 92 tick(s)
+[00:03:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3328ms behind, skipping 66 tick(s)
+[00:04:00] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2800ms behind, skipping 56 tick(s)
+[00:04:23] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6776ms behind, skipping 135 tick(s)
+[00:04:36] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3968ms behind, skipping 79 tick(s)
+[00:04:54] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 4357ms behind, skipping 87 tick(s)
+[00:05:15] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5732ms behind, skipping 114 tick(s)
+[00:05:27] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2256ms behind, skipping 45 tick(s)
+[00:05:46] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3513ms behind, skipping 70 tick(s)
+[00:06:07] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6059ms behind, skipping 121 tick(s)
+[00:06:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2094ms behind, skipping 41 tick(s)
+[00:06:46] [Server thread/INFO]: _TakoLoko_ was slain by Zombie Pigman
+[00:07:11] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9820ms behind, skipping 196 tick(s)
+[00:07:50] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3749ms behind, skipping 74 tick(s)
+[00:08:09] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 5562ms behind, skipping 111 tick(s)
+[00:08:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 6773ms behind, skipping 135 tick(s)
+[00:08:44] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 3559ms behind, skipping 71 tick(s)
+[00:08:57] [Server thread/INFO]: _TakoLoko_ was shot by Skeleton
+[00:10:09] [Server thread/INFO]: <Samdroid> io vi sento ma io lagfo
+[00:25:23] [Server thread/INFO]: _TakoLoko_ has just earned the achievement [Repopulation]
+[00:25:30] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2229ms behind, skipping 44 tick(s)
+[00:26:42] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2134ms behind, skipping 42 tick(s)
+[00:28:16] [Server thread/INFO]: <_TakoLoko_> gn
+[00:28:29] [Server thread/INFO]: Samdroid lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:28:29] [Server thread/INFO]: Samdroid left the game
+[00:28:29] [Server thread/INFO]: Icuurak lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:28:29] [Server thread/INFO]: Icuurak left the game
+[00:28:32] [Server thread/INFO]: _TakoLoko_ lost connection: TextComponent{text='Disconnected', siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[00:28:32] [Server thread/INFO]: _TakoLoko_ left the game
+[00:28:36] [Server thread/INFO]: Unknown command. Try /help for a list of commands
+[00:28:40] [Server thread/INFO]: [Server] hello
+[00:28:47] [Server thread/INFO]: Stopping server
+[00:28:47] [Server thread/INFO]: Saving players
+[00:28:47] [Server thread/INFO]: Saving worlds
+[00:28:47] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[00:28:47] [Server thread/INFO]: Saving chunks for level 'world'/Nether
+[00:28:47] [Server thread/INFO]: Saving chunks for level 'world'/The End
